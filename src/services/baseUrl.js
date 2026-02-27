@@ -1,0 +1,1 @@
+export const baseUrl = 'https://eurocrud-server.onrender.com'
