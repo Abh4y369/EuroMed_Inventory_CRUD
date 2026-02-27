@@ -19,7 +19,7 @@ const Login = () => {
     <div className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-[#0f5f73] via-[#12718a] to-[#44a7aa] overflow-hidden">
       <div className="absolute w-96 h-96 bg-white/10 rounded-full -top-20 -left-20 blur-3xl"></div>
       <div className="absolute w-96 h-96 bg-white/10 rounded-full -bottom-20 -right-20 blur-3xl"></div>
-      <div className="relative backdrop-blur-lg bg-white/90 md:p-10 p-6 rounded-3xl shadow-2xl w-[380px] min-h-[60vh] border border-white/30">
+      <div className="relative backdrop-blur-lg bg-white/90 md:p-10 p-6 rounded-3xl shadow-2xl w-[340px] min-h-[60vh] border border-white/30">
         <div className="flex justify-center mb-6">
           <img src="/EuroMed.logo.png" alt="EuroMed Logo" width="260px" />
         </div>
